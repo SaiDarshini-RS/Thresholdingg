@@ -87,19 +87,21 @@ plt.show()
 ## Output
 
 ### Original Image
-![image](https://github.com/user-attachments/assets/43736195-dab6-4fca-b282-c09359b0973f)
+![image](https://github.com/user-attachments/assets/7c49b08b-7f06-4081-b7c6-3e240a539687)
 
 
 ### Global Thresholding
-![image](https://github.com/user-attachments/assets/a274d862-f99c-4851-a28e-370b43c7a11b)
+![image](https://github.com/user-attachments/assets/86c00094-1e09-409d-b77f-cd81492135cc)
+
 
 
 ### Adaptive Thresholding
-![image](https://github.com/user-attachments/assets/b4b2a9c8-a314-4920-b7f0-40a720bceac2)
+![image](https://github.com/user-attachments/assets/df509242-51ac-4b14-a729-e5f8a7ffd3b3)
 
 
 ### Optimum Global Thesholding using Otsu's Method
-![image](https://github.com/user-attachments/assets/2f5e162a-9d80-4026-b4c7-5f119dc227af)
+![image](https://github.com/user-attachments/assets/bbc03301-30aa-4102-947e-63e42734a9c0)
+
 
 
 
